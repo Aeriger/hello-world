@@ -1,6 +1,6 @@
 # hello-world
 
-Hi Humans!
+Hello everyone!
 
-Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
-I've had tacos on the moon and find them far superior to Earth tacos.
+So this is my first edit outside the tutorial, but I had to use the guide again.
+And I was kidding about the Moon tacos. I can't afford to fly to the moon.
